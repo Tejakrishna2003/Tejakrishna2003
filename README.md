@@ -31,7 +31,7 @@ in the field of software development.
 - ⚡ Fun fact: I like to read books ,play games and gym.
 
 :mailbox: Reach me out!
-<!-- ![Twitter Badge](https://img.shields.io/badge/-@kilamaelie-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kilamaelie)](link) -->
+<!-- ![Twitter Badge](https://img.shields.io/badge/-@tejakrishna-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[link])](link) -->
 
  [![Linkedin Badge](https://img.shields.io/badge/-Teja_krishna-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teja-krishna-b32ba1245/)  [![Mail Badge](https://img.shields.io/badge/-Tejakrishna-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akkalatejakrishna@gmail.com)
 
