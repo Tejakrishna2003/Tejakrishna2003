@@ -6,7 +6,7 @@
 <a href="https://drive.google.com/file/d/13k0tXByzqASv5lfPXYXvl15p4IoD4JKG/view?usp=sharing" target="_blank">
    <img src="https://img.shields.io/badge/-RESUME-white?logo=dialogflow&style=for-the-badge">
 </a>
-<a href="https://kilamaelie.com/" target="_blank">
+<a href="https://tejakrishna2003.github.io/Portfolio/" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 
