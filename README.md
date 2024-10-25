@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Startup+Enthusiast..&hearts;++;Full-Stack+Developer,;Love+to+learn+new+stuffs."></a>
 <br>
-<a href="https://drive.google.com/file/d/13k0tXByzqASv5lfPXYXvl15p4IoD4JKG/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/160zpP7noo-d_hqa_udiwmjiSqbJ04EN6/view?usp=sharing" target="_blank">
    <img src="https://img.shields.io/badge/-RESUME-white?logo=dialogflow&style=for-the-badge">
 </a>
 <a href="https://tejakrishna2003.github.io/Portfolio/" target="_blank">
