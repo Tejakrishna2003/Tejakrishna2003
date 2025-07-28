@@ -18,7 +18,7 @@ skilled web developer and a well-rounded full-stack engineer. I am eager to appl
 and practical skills to real-world projects. I am committed to continuous learning and professional growth
 in the field of software development.
 
-- 🌱 I’m currently learning **Blockchain technology**
+<!--- 🌱 I’m currently learning **Blockchain technology** -->
 
 - 💬 Ask me about **Anything**
 
