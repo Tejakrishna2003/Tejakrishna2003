@@ -12,7 +12,7 @@
 
 </p>
 
-I’m A. Teja Krishna, currently pursuing a B.Tech in Artificial Intelligence and Machine Learning at SRM
+I’m A. Teja Krishna, I have completed my B.Tech in Artificial Intelligence and Machine Learning from SRM
 University. While AI is fascinating, my true passion lies in web development. My goal is to become a
 skilled web developer and a well-rounded full-stack engineer. I am eager to apply my theoretical knowledge
 and practical skills to real-world projects. I am committed to continuous learning and professional growth
