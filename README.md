@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About me </b>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Startup+Enthusiast..&hearts;++;Full-Stack+Developer,;Love+to+learn+new+stuffs."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Certified+Ethical+Hacker+(CEH);Full-Stack+Developer;AI%2FML+Security+Enthusiast;Building+Secure+%26+Scalable+Web+Apps"></a>
 <br>
 <a href="https://github.com/Tejakrishna2003/Tejakrishna2003/blob/main/Teja%20krishna%20Resume.pdf" target="_blank">
    <img src="https://img.shields.io/badge/-RESUME-white?logo=dialogflow&style=for-the-badge">
@@ -12,23 +12,23 @@
 
 </p>
 
-I’m A. Teja Krishna, I have completed my B.Tech in Artificial Intelligence and Machine Learning from SRM
-University. While AI is fascinating, my true passion lies in web development. My goal is to become a
-skilled web developer and a well-rounded full-stack engineer. I am eager to apply my theoretical knowledge
-and practical skills to real-world projects. I am committed to continuous learning and professional growth
-in the field of software development.
+I'm **A. Teja Krishna**, a Full-Stack Developer and **Certified Ethical Hacker (CEH v13 AI)** with a background in Computer Science & Artificial Intelligence from SRM University. 
+
+My primary focus lies in building secure, high-performance web applications and bridging full-stack development with offensive security, penetration testing, and AI threat analysis. I am committed to continuous learning and applying a proactive, "security-first" mindset to software architecture.
+
+- 🛡️ **Certifications:** Certified Ethical Hacker (CEH v13) — EC-Council (*ID: ECC1983465072*)
 
 <!--- 🌱 I’m currently learning **Blockchain technology** -->
 
-- 💬 Ask me about **Anything**
-
-- 👨🏿‍💻 I'm looking to collaborate with other developers.
-
-- 📫 How to reach me: akkalatejakrishna@gmail.com  or tejakrishna_akkala@srmap.edu.in .
+- 💬 Ask me about **Web Development, Ethical Hacking, AppSec, React & Node.js**
+  
+- 👨‍💻 I'm looking to collaborate on **Open-Source, DevSecOps, and Web Development Projects**
+  
+- 📫 Reach me at: **akkalatejakrishna@gmail.com** or **tejakrishna_akkala@srmap.edu.in**
  
--  Visit my portfolio : [Teja-krishna | Portfolio ]()
+- 🌐 Visit my portfolio : [Teja-krishna | Portfolio ]()
 
-- ⚡ Fun fact: I like to read books ,play games and gym.
+- ⚡ Fun fact: I love reading tech/security books, playing games, and hitting the gym 🏋️‍♂️
 
 :mailbox: Reach me out!
 <!-- ![Twitter Badge](https://img.shields.io/badge/-@tejakrishna-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[link])](link) -->
@@ -36,6 +36,16 @@ in the field of software development.
  [![Linkedin Badge](https://img.shields.io/badge/-Teja_krishna-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teja-krishna-b32ba1245/)  [![Mail Badge](https://img.shields.io/badge/-Tejakrishna-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akkalatejakrishna@gmail.com)
 
 <br>
+<br>
+
+- **Cybersecurity & Offensive Security**:
+
+  ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-CEH%20v13-red?style=for-the-badge&logo=shield)
+  ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+  ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-4B0082?style=for-the-badge)
+  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
+
 <br>
 
   
