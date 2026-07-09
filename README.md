@@ -26,7 +26,7 @@ My primary focus lies in building secure, high-performance web applications and 
   
 - 📫 Reach me at: **akkalatejakrishna@gmail.com** or **tejakrishna_akkala@srmap.edu.in**
  
-- 🌐 Visit my portfolio : [Teja-krishna | Portfolio ]()
+- 🌐 Visit my portfolio: [Teja Krishna Portfolio](https://tejakrishna2003.github.io/Portfolio/)
 
 - ⚡ Fun fact: I love reading tech/security books, playing games, and hitting the gym 🏋️‍♂️
 
