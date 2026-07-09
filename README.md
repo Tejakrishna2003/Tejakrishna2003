@@ -38,16 +38,6 @@ My primary focus lies in building secure, high-performance web applications and 
 <br>
 <br>
 
-- **Cybersecurity & Offensive Security**:
-
-  ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-CEH%20v13-red?style=for-the-badge&logo=shield)
-  ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
-  ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-4B0082?style=for-the-badge)
-  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
-
-<br>
-
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
@@ -64,6 +54,17 @@ My primary focus lies in building secure, high-performance web applications and 
    <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
 
 <br> 
+
+
+- **Cybersecurity & Offensive Security**:
+
+  ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-CEH%20v13-red?style=for-the-badge&logo=shield)
+  ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+  ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-4B0082?style=for-the-badge)
+  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
+
+<br>
 
 - **Front-End Development**:
 
@@ -93,6 +94,7 @@ My primary focus lies in building secure, high-performance web applications and 
   <!-- ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) -->
 
 <br>
+
 
 - **Databases**:
 
