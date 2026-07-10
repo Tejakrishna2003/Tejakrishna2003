@@ -25,8 +25,6 @@ My primary focus lies in building secure, high-performance web applications and 
 - 👨‍💻 I'm looking to collaborate on **Open-Source, DevSecOps, and Web Development Projects**
   
 - 📫 Reach me at: **akkalatejakrishna@gmail.com** or **tejakrishna_akkala@srmap.edu.in**
- 
-- 🌐 Visit my portfolio: [Teja Krishna Portfolio](https://tejakrishna2003.github.io/Portfolio/)
 
 - ⚡ Fun fact: I love reading tech/security books, playing games, and hitting the gym 🏋️‍♂️
 
