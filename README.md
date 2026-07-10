@@ -20,7 +20,7 @@ My primary focus lies in building secure, high-performance web applications and 
 
 <!--- 🌱 I’m currently learning **Blockchain technology** -->
 
-- 💬 Ask me about **Web Development, Ethical Hacking, AppSec, React & Node.js**
+- 💬 Ask me about **Web Development, Ethical Hacking, React & Node.js**
   
 - 👨‍💻 I'm looking to collaborate on **Open-Source, and Web Development Projects.**
 
