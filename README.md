@@ -22,14 +22,14 @@ My primary focus lies in building secure, high-performance web applications and 
 
 - 💬 Ask me about **Web Development, Ethical Hacking, AppSec, React & Node.js**
   
-- 👨‍💻 I'm looking to collaborate on **Open-Source, DevSecOps, and Web Development Projects**
-  
-- 📫 Reach me at: **akkalatejakrishna@gmail.com** or **tejakrishna_akkala@srmap.edu.in**
+- 👨‍💻 I'm looking to collaborate on **Open-Source, and Web Development Projects.**
 
 - ⚡ Fun fact: I love reading tech/security books, playing games, and hitting the gym 🏋️‍♂️
 
 :mailbox: Reach me out!
-<!-- ![Twitter Badge](https://img.shields.io/badge/-@tejakrishna-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[link])](link) -->
+
+- 📫  **akkalatejakrishna@gmail.com** or **tejakrishna_akkala@srmap.edu.in**
+<!-- ![Twitter Badge](https://img.shields.io/badge/-@tejakrishna-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[link]) -->
 
  [![Linkedin Badge](https://img.shields.io/badge/-Teja_krishna-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teja-krishna-b32ba1245/)  [![Mail Badge](https://img.shields.io/badge/-Tejakrishna-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akkalatejakrishna@gmail.com)
 
